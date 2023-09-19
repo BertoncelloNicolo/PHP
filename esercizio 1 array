@@ -1,0 +1,15 @@
+<?php 
+$array=[];
+$massimo=4;
+
+for($i=0;$i<$massimo;$i++)
+{
+    echo "Inserisci un numero";
+    $array[$i]=readline();
+}
+
+for($i=0;$i<$massimo;$i++)
+{
+    echo $array[$i];
+}
+

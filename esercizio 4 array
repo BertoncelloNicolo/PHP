@@ -1,0 +1,23 @@
+<?php
+
+$array=[]; 
+$massimo=5;
+$ricerca;
+$trovato;
+
+for($i=0;$i<$massimo;$i++)
+{
+    echo "Inserisci un numero";
+    $array[$i]=readline();
+}
+
+echo "inserisci il numero da ricercare";
+$ricerca=readline();
+
+for($i=0;$i<$massimo;$i++)
+{
+    if($ricerca==$array[$i])
+    {
+        echo "questa è la posizione del numero ricercato: $i";
+    }
+}
