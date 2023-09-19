@@ -1,0 +1,18 @@
+<?php
+
+$Studenti = (array)new SimpleXMLElement($xml); // libreria usata per convertire un file XML 
+$Json;
+$Studenti = [
+    'Nome' => 'Nicolò',
+    'Cognome' => 'Bertoncello',
+    'Classe' => 5
+];
+
+$xml = new SimpleXMLElement('<user />');
+foreach ($Studenti as $key => $value) {
+    $xml->addChild($key, $value);
+}
+echo "Questo è il file in XML"+ $xml->asXML();
+
+$Json=json_encode($xml);
+echo "Questo è il file in Json $Json";

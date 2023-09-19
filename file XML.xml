@@ -1,0 +1,31 @@
+<studenti>
+
+    <studente>
+        <nome> Nicolò </nome>
+        <cognome>Bertoncello </cognome>
+        <classe> 5</classe>
+        <telefono>3898487455</telefono>
+    </studente>
+
+    <studente>
+        <nome> Edoardo </nome>
+        <cognome>Rossi </cognome>
+        <classe> 5</classe>
+        <telefono>3898487455</telefono>
+    </studente>
+
+    <studente>
+        <nome> Alessio </nome>
+        <cognome>Ghirardello </cognome>
+        <classe> 5</classe>
+        <telefono>3898487455</telefono>
+    </studente>
+
+    <studente>
+        <nome> Matteo </nome>
+        <cognome>Franzolin </cognome>
+        <classe> 5</classe>
+        <telefono>3898487455</telefono>
+    </studente>
+
+</studenti>
