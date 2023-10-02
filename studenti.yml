@@ -1,218 +1,196 @@
-#studenti.yml
 ---
-gruppo: studenti
 computers:
-- hostname: linguistico01
-utenti:
-- nome: Abounnasr
-cognome: Yassir
-groups:
-- 3F
-- nome: Mattia
-cognome: Albieri
-groups:
-- 3E
-computers:
-- hostname: linguistico02
-utenti:
-- nome: Lorenzo
-cognome: Altieri
-groups:
-- 3F
-- nome:  Filippo
-cognome: Barchi
-groups:
-- 3E
-computers:
-- hostname: linguistico03
-utenti:
-- nome: Francesco
-cognome: Bazaj
-groups:
-- 3F
-- nome:  Noemi
-cognome: Basaglia
-groups:
-- 3E
-computers:
-- hostname: linguistico04
-utenti:
-- nome: Riccardo
-cognome: Gianesella
-groups:
-- 3F
-- nome: Francesco
-cognome: Bego
-groups:
-- 3E
-computers:
-- hostname: linguistico05
-utenti:
-- nome: Mohamed
-cognome: Gueazam
-groups:
-- 3F
-- nome:  Stefano
-cognome: Boscolo
-groups:
-- 3E
-computers:
-- hostname: linguistico06
-utenti:
-- nome: Angelo
-cognome: Lideo
-groups:
-- 3F
-- nome:  Daniele
-cognome: Chiarion
-groups:
-- 3E
-computers:
-- hostname: linguistico07
-utenti: 
-- nome: Francesco
-cognome: Marchetto
-groups:
-- 3F
-- nome:  Eleonora
-cognome: Cosmi
-groups:
-- 3E
-computers:
-- hostname: linguistico08
-utenti: 
-- nome: Dessant
-cognome: Mustafaj
-groups:
-- 3F
-- nome:  Mattia
-cognome: Crepaldi
-groups:
-- 3E
-computers:
-- hostname: linguistico09
-utenti:
-- nome: Patrik
-cognome: Pacurar
-groups:
-- 3F
-- nome:  Michele 
-cognome: Gaino
-groups:
-- 3E
-computers:
-- hostname: linguistico10
-utenti:
-- nome: Mattia
-cognome: Pavarin
-groups:
-- 3F
-- nome:  Filippo
-cognome: Giatti
-groups:
-- 3E
-computers:
-- hostname: linguistico11
-utenti:
-- nome: Alessio 
-cognome: Poli
-groups:
-- 3F
-- nome:  Leonardo
-cognome: Guerra
-groups:
-- 3E
-computers:
-- hostname: linguistico12
-utenti:
-- nome: Giacomo
-cognome: Redi
-groups:
-- 3F
-- nome:  Davide
-cognome: Laghi
-groups:
-- 3E
-computers:
-- hostname: linguistico13
-utenti:
-- nome: Diego 
-cognome: Renesto
-groups:
-- 3F
-- nome:  Lorenzo
-cognome: Malachin
-groups:
-- 3E
-computers:
-- hostname: linguistico14
-utenti:
-- nome: Franesco
-cognome: Renesto
-groups:
-- 3F
-- nome:  Asia
-cognome: Navarri
-groups:
-- 3E
-computers:
-- hostname: linguistico15
-utenti:
-- nome: Nicolò
-cognome: Visentini
-groups:
-- 3F
-- nome:  Matteo
-cognome: Pavan
-groups:
-- 3E
-computers:
-- hostname: linguistico16
-utenti:
-- nome: Nicolò
-cognome: Zanforlin
-groups:
-- 3F
-- nome:  Denis
-cognome: Sescu
-groups:
-- 3E
-computers:
-- hostname: linguistico17
-utenti:
-- nome: Marco
-cognome: Zhang
-groups:
-- 3F
-- nome:  Martino
-cognome: Tomasello
-groups:
-- 3E
-computers:
-- hostname: linguistico18
-utenti:
-- nome:  Nicola 
-cognome: Tosatti
-groups:
-- 3E
-computers:
-- hostname: linguistico19
-utenti:
-- nome:  Luca
-cognome: Visentin
-groups:
-- 3E
-computers:
-- hostname: linguistico20
-utenti:
-- nome:  Enrico 
-cognome: Zanotti
-groups:
-- 3E
-computers:
-- hostname: linguistico21
-utenti:
-- nome:  Luigi 
-cognome: Zara
-groups:
-- 3E
+  - hostname: linguistico01
+    utenti:
+      - nome: Abounnasr
+        cognome: Yassir
+        groups:
+          - 3F
+      - nome: Mattia
+        cognome: Albieri
+        groups:
+          - 3E
+  - hostname: linguistico02
+    utenti:
+      - nome: Lorenzo
+        cognome: Altieri
+        groups:
+          - 3F
+      - nome: Filippo
+        cognome: Barchi
+        groups:
+          - 3E
+  - hostname: linguistico03
+    utenti:
+      - nome: Francesco
+        cognome: Bazaj
+        groups:
+          - 3F
+      - nome: Noemi
+        cognome: Basaglia
+        groups:
+          - 3E
+  - hostname: linguistico04
+    utenti:
+      - nome: Riccardo
+        cognome: Gianesella
+        groups:
+          - 3F
+      - nome: Francesco
+        cognome: Bego
+        groups:
+          - 3E
+  - hostname: linguistico05
+    utenti:
+      - nome: Mohamed
+        cognome: Gueazam
+        groups:
+          - 3F
+      - nome: Stefano
+        cognome: Boscolo
+        groups:
+          - 3E
+  - hostname: linguistico06
+    utenti:
+      - nome: Angelo
+        cognome: Lideo
+        groups:
+          - 3F
+      - nome: Daniele
+        cognome: Chiarion
+        groups:
+          - 3E
+  - hostname: linguistico07
+    utenti:
+      - nome: Francesco
+        cognome: Marchetto
+        groups:
+          - 3F
+      - nome: Eleonora
+        cognome: Cosmi
+        groups:
+          - 3E
+  - hostname: linguistico08
+    utenti:
+      - nome: Dessant
+        cognome: Mustafaj
+        groups:
+          - 3F
+      - nome: Mattia
+        cognome: Crepaldi
+        groups:
+          - 3E
+  - hostname: linguistico09
+    utenti:
+      - nome: Patrik
+        cognome: Pacurar
+        groups:
+          - 3F
+      - nome: Michele
+        cognome: Gaino
+        groups:
+          - 3E
+  - hostname: linguistico10
+    utenti:
+      - nome: Mattia
+        cognome: Pavarin
+        groups:
+          - 3F
+      - nome: Filippo
+        cognome: Giatti
+        groups:
+          - 3E
+  - hostname: linguistico11
+    utenti:
+      - nome: Alessio
+        cognome: Poli
+        groups:
+          - 3F
+      - nome: Leonardo
+        cognome: Guerra
+        groups:
+          - 3E
+  - hostname: linguistico12
+    utenti:
+      - nome: Giacomo
+        cognome: Redi
+        groups:
+          - 3F
+      - nome: Davide
+        cognome: Laghi
+        groups:
+          - 3E
+  - hostname: linguistico13
+    utenti:
+      - nome: Diego
+        cognome: Renesto
+        groups:
+          - 3F
+      - nome: Lorenzo
+        cognome: Malachin
+        groups:
+          - 3E
+  - hostname: linguistico14
+    utenti:
+      - nome: Franesco
+        cognome: Renesto
+        groups:
+          - 3F
+      - nome: Asia
+        cognome: Navarri
+        groups:
+          - 3E
+  - hostname: linguistico15
+    utenti:
+      - nome: Nicolò
+        cognome: Visentini
+        groups:
+          - 3F
+      - nome: Matteo
+        cognome: Pavan
+        groups:
+          - 3E
+  - hostname: linguistico16
+    utenti:
+      - nome: Nicolò
+        cognome: Zanforlin
+        groups:
+          - 3F
+      - nome: Denis
+        cognome: Sescu
+        groups:
+          - 3E
+  - hostname: linguistico17
+    utenti:
+      - nome: Marco
+        cognome: Zhang
+        groups:
+          - 3F
+      - nome: Martino
+        cognome: Tomasello
+        groups:
+          - 3E
+  - hostname: linguistico18
+    utenti:
+      - nome: Nicola
+        cognome: Tosatti
+        groups:
+          - 3E
+  - hostname: linguistico19
+    utenti:
+      - nome: Luca
+        cognome: Visentin
+        groups:
+          - 3E
+  - hostname: linguistico20
+    utenti:
+      - nome: Enrico
+        cognome: Zanotti
+        groups:
+          - 3E
+  - hostname: linguistico21
+    utenti:
+      - nome: Luigi
+        cognome: Zara
+        groups:
+          - 3E
